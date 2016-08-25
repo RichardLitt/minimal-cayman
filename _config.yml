@@ -1,0 +1,39 @@
+# Setup
+path:         http://osprotocol.com
+baseurl:      ""
+markdown: kramdown
+google_analytics: UA-4124866-28
+
+# Metadata
+title:        Open Source Protocol
+description:  A responsive theme for your project on GitHub Pages
+license:      MIT
+
+# Logo
+# The type is from OGP. See http://ogp.me
+logo:
+  name:       open-source-protocol.png
+  type:       image/png
+  width:      400
+  height:     400
+
+# About/contact
+author:
+  name:       Richard Littauer
+  url:        http://yourhomepage.com
+
+# Open Source Protocol
+# See http://osprotocol.com
+os:
+  repo: https://github.com/RichardLitt/open-source-protocol
+  src: git@github.com:RichardLitt/open-source-protocol.git
+  issues: https://github.com/RichardLitt/open-source-protocol/issues
+  branch: gh-pages
+  rcs_type: git
+
+# Maintainer (normally on GitHub)
+maintainer:
+  name: RichardLitt
+  link: https://github.com/RichardLitt
+
+# Gems
