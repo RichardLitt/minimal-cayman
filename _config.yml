@@ -26,10 +26,10 @@ author:
 # Open Source Protocol
 # See http://osprotocol.com
 os:
-  repo: https://github.com/RichardLitt/minimal-cayman
-  src: git@github.com:RichardLitt/minimal-cayman.git
-  issues: https://github.com/RichardLitt/minimal-cayman/issues
-  branch: gh-pages
+  repo:     https://github.com/RichardLitt/minimal-cayman
+  src:      git@github.com:RichardLitt/minimal-cayman.git
+  issues:   https://github.com/RichardLitt/minimal-cayman/issues
+  branch:   gh-pages
   rcs_type: git
 
 # Maintainer (normally on GitHub)
