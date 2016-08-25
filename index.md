@@ -40,4 +40,4 @@ Note that this README follows the [Standard-Readme](https://github.com/RichardLi
 
 ### Logo
 
-Logo adapted from https://en.wikipedia.org/wiki/Caiman#/media/File:Paleosuchus_palpebrosus_Prague_2011_3.jpg, under CC-BY-SA 3.0 License
+Logo adapted from [Wikipedia](https://en.wikipedia.org/wiki/Caiman#/media/File:Paleosuchus_palpebrosus_Prague_2011_3.jpg), under CC-BY-SA 3.0 License
