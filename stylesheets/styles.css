@@ -278,6 +278,7 @@ footer {
 img.logo {
   margin: 0 auto;
   display: block;
+  max-width: 400px;
 }
 
 code:not(.language-html) {

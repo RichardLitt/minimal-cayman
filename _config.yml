@@ -12,10 +12,10 @@ license:      MIT
 # Logo
 # The type is from OGP. See http://ogp.me
 logo:
-  name:       open-source-protocol.png
+  name:       caiman.png
   type:       image/png
-  width:      400
-  height:     400
+  width:      800
+  height:     800
 
 # About/contact
 author:
