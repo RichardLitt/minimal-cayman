@@ -289,3 +289,7 @@ code:not(.language-html) {
   overflow-x: auto;
   margin: 0px 3px;
 }
+
+.maintainer {
+  margin-top: 15px;
+}
