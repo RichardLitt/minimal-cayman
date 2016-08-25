@@ -261,6 +261,14 @@ footer {
   Custom Things
 */
 
+pre > code {
+  border: none !important;
+}
+
+pre.highlight {
+  background: #f8f8f8;
+}
+
 .header{
   width: 100%;
   background: #F8F8F8;
