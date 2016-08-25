@@ -1,11 +1,11 @@
 # Setup
-path:         http://osprotocol.com
-baseurl:      ""
+path:         http://burntfen.com/minimal-cayman
+baseurl:      /minimal-cayman
 markdown: kramdown
 google_analytics: UA-4124866-28
 
 # Metadata
-title:        Open Source Protocol
+title:        Minimal Cayman
 description:  A responsive theme for your project on GitHub Pages
 license:      MIT
 
@@ -20,14 +20,14 @@ logo:
 # About/contact
 author:
   name:       Richard Littauer
-  url:        http://yourhomepage.com
+  url:        http://burntfen.com
 
 # Open Source Protocol
 # See http://osprotocol.com
 os:
-  repo: https://github.com/RichardLitt/open-source-protocol
-  src: git@github.com:RichardLitt/open-source-protocol.git
-  issues: https://github.com/RichardLitt/open-source-protocol/issues
+  repo: https://github.com/RichardLitt/minimal-cayman
+  src: git@github.com:RichardLitt/minimal-cayman.git
+  issues: https://github.com/RichardLitt/minimal-cayman/issues
   branch: gh-pages
   rcs_type: git
 
