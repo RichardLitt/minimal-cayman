@@ -1,6 +1,6 @@
 # Setup
 path:         http://burntfen.com/minimal-cayman
-baseurl:      /minimal-cayman
+baseurl:      ""
 markdown:     kramdown
 google_analytics: UA-4124866-28
 github:       RichardLitt/minimal-cayman
