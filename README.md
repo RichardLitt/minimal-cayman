@@ -1,3 +1,5 @@
+![caiman](assets/img/caiman.png)
+
 # minimal-cayman
 
 This is a minimal [Cayman](https://github.com/jasonlong/cayman-theme) alteration, with a bit more config, and made for jekyll. It natively includes Open Graph, Twitter cards, and OS Protocol metatags. The CSS colors avoid the flashy Cayman colors in favor of something a bit more subtle.
