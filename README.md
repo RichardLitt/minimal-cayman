@@ -22,6 +22,10 @@ Put any uncompressed images into `src/img`. Then, run `gulp`: this will compress
 
 If `gulp` doesn't work, run: `npm install`.
 
+### favicon.ico
+
+You'll need to replace this, and the logo, with your own images.
+
 ## Contribute
 
 Please do! Check out the [issues](https://github.com/RichardLitt/minimal-cayman), or open a PR.

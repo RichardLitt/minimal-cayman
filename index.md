@@ -12,9 +12,7 @@ Partly based on [jekyll-cayman-theme](https://github.com/pietromenna/jekyll-caym
 
 ## Install
 
-```sh
-git clone https://github.com/RichardLitt/minimal-cayman
-```
+    git clone https://github.com/RichardLitt/minimal-cayman
 
 ## Usage
 
@@ -25,6 +23,10 @@ Edit the `_config.yml` file according to your own specifications. Also edit the 
 Put any uncompressed images into `src/img`. Then, run `gulp`: this will compress them and make them better for the web, and copy them to `assets/img`.
 
 If `gulp` doesn't work, run: `npm install`.
+
+### favicon.ico
+
+You'll need to replace this, and the logo, with your own images.
 
 ## Contribute
 
