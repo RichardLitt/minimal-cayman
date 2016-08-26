@@ -1,7 +1,5 @@
 ---
 layout: index
-title: Minimal Cayman
-description: A responsive theme for your project on GitHub Pages
 ---
 
 # minimal-cayman
