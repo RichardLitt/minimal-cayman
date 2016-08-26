@@ -270,6 +270,7 @@ pre.highlight {
 }
 
 .header{
+  text-align: center;
   width: 100%;
   background: #F8F8F8;
   border-bottom: 1px solid #ECECEC;

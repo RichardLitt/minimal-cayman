@@ -12,6 +12,7 @@ license:      MIT
 
 # Logo
 # The type is from OGP. See http://ogp.me
+# Comment out all of these lines to use title and description in the header
 logo:
   name:       caiman.png
   type:       image/png

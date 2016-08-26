@@ -42,9 +42,16 @@
     <![endif]-->
   </head>
   <body>
+    {% if site.logo %}
     <div class="header">
-      <img class='logo' src="{{ site.baseurl }}/assets/img/{{ site.logo.name }}" title="{{ site.title }}" alt="{{ site.title }}"/>
+     <img class='logo' src="{{ site.baseurl }}/assets/img/{{ site.logo.name }}" title="{{ site.title }}" alt="{{ site.title }}"/>
     </div>
+    {% else %}
+    <div class="header">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </div>
+    {% endif %}
     <div class="wrapper">
 
         {{content}}
