@@ -16,11 +16,11 @@ favicon:
   name:       favicon.ico
 
 # Logo
-# The type is from OGP. See http://ogp.me
+# The mimetype is defined by OGP. See http://ogp.me
 # Comment out all of these lines to use title and description in the header
 logo:
   name:       caiman.png
-  type:       image/png
+  mimetype:       image/png
   width:      800
   height:     800
 
