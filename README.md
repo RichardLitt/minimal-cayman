@@ -26,6 +26,18 @@ If `gulp` doesn't work, run: `npm install`.
 
 You'll need to replace this, and the logo, with your own images.
 
+### Checklist for repurposing theme:
+
+- [ ] Edit `_config.yml`.
+- [ ] Edit `index.md`.
+- [ ] Replace logo with your own logo.
+  - [ ] Remove old logo entirely, from `src/` and `assets`.
+- [ ] Replace favicon with your own favicon.
+- [ ] Edit `package.json` if you plan on using semver to save and deploy website.
+- [ ] Remove or edit CNAME.
+- [ ] Deploy!
+- [ ] Edit this README to reflect current website.
+
 ## Contribute
 
 Please do! Check out the [issues](https://github.com/RichardLitt/minimal-cayman), or open a PR.
