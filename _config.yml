@@ -10,6 +10,11 @@ title:        Minimal Cayman
 description:  A responsive theme for your project on GitHub Pages
 license:      MIT
 
+# Favicon
+favicon:
+  mimetype:   image/x-icon
+  name:       favicon.ico
+
 # Logo
 # The type is from OGP. See http://ogp.me
 # Comment out all of these lines to use title and description in the header

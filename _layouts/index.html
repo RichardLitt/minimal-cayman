@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     {% if page.title %}<title>{{ page.title }}</title>{% else %}<title>{{ site.title }}</title>{% endif %}
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="{{ site.favicon.mimetype }}" href="{{ site.favicon.name }}">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
