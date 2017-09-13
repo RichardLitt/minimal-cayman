@@ -2,6 +2,8 @@
 
 # minimal-cayman
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/minimal-cayman.svg)](https://greenkeeper.io/)
+
 This is a minimal [Cayman](https://github.com/jasonlong/cayman-theme) alteration, with a bit more config, and made for jekyll. It natively includes Open Graph, Twitter cards, and OS Protocol metatags. The CSS colors avoid the flashy Cayman colors in favor of something a bit more subtle.
 
 Partly based on [jekyll-cayman-theme](https://github.com/pietromenna/jekyll-cayman-theme), too.
